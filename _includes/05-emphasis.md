@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **HTML**
+  * div
+  * value
+  * h1
+  * tag
+- __Java__
+  * char*
+  * string*
